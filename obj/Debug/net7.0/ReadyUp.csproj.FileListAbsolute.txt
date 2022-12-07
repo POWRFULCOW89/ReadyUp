@@ -1,0 +1,15 @@
+D:\LocalProjects\CSharp\ReadyUp\bin\Debug\net7.0\ReadyUp.exe
+D:\LocalProjects\CSharp\ReadyUp\bin\Debug\net7.0\ReadyUp.deps.json
+D:\LocalProjects\CSharp\ReadyUp\bin\Debug\net7.0\ReadyUp.runtimeconfig.json
+D:\LocalProjects\CSharp\ReadyUp\bin\Debug\net7.0\ReadyUp.dll
+D:\LocalProjects\CSharp\ReadyUp\bin\Debug\net7.0\ReadyUp.pdb
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.csproj.AssemblyReference.cache
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.AssemblyInfoInputs.cache
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.AssemblyInfo.cs
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.csproj.CoreCompileInputs.cache
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.dll
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\refint\ReadyUp.dll
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.pdb
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ReadyUp.genruntimeconfig.cache
+D:\LocalProjects\CSharp\ReadyUp\obj\Debug\net7.0\ref\ReadyUp.dll
